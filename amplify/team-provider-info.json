@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-federatedwebview-dev-74945-authRole",
+      "UnauthRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedwebview-dev-74945-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedwebview-dev-74945-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-federatedwebview-dev-74945-deployment",
+      "UnauthRoleName": "amplify-federatedwebview-dev-74945-unauthRole",
+      "StackName": "amplify-federatedwebview-dev-74945",
+      "StackId": "arn:aws:cloudformation:us-east-1:296215747775:stack/amplify-federatedwebview-dev-74945/ac045340-552c-11ed-a82e-0e7c22c2b06f",
+      "AmplifyAppId": "dp54m9x5ibwxr"
+    },
+    "categories": {
+      "auth": {
+        "federatedwebviewc9829c39": {}
+      }
+    }
+  }
+}
